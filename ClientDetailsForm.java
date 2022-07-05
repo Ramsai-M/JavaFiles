@@ -1,3 +1,4 @@
+//Take some details from Client like name,age,gender,mobile number, PPA using Java.
 import java.util.Scanner;
 public class ClientDetailsForm{
     public static void main(String[] args){
